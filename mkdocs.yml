@@ -1,0 +1,34 @@
+site_name: Documentacion
+
+nav:
+  - 🏠 Home: index.md
+  - ▶️ Getting Started: getting_started.md
+  - 🐳 Docker: docker.md
+  - ⚙️ Configuration: configurations.md
+  - 🌏 Endpoints: endpoints.md
+  - 📇 Database: database.md
+  - 🛠️ Deployment: deployment.md
+  - 👤 About: about.md
+
+plugins:
+  - search
+  - tags:
+      tags_name_variable: tags
+
+theme:
+  name: material
+  palette:
+    accent: gray
+    primary: pink
+  font:
+    text: Roboto
+  language: es
+  logo: /assets/logo.png
+  favicon: /images/logo.png
+  features:
+    - navigation.path
+    - search.suggest
+
+extra:
+  font_awesome:
+    use_cdn: true
