@@ -1,6 +1,4 @@
-# 👤 About
-
-Bienvenido a nuestro proyecto!
+# 👤 Acerca de nosotros
 
 ## Nuestra Misión
 

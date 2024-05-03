@@ -6,7 +6,7 @@ nav:
   - 🐳 Docker: docker.md
   - ⚙️ Configuration: configurations.md
   - 🌏 Endpoints: endpoints.md
-  - 📇 Database: database.md
+  - 💾 Database: database.md
   - 🛠️ Deployment: deployment.md
   - 👤 About: about.md
 
@@ -19,7 +19,7 @@ theme:
   name: material
   palette:
     accent: gray
-    primary: pink
+    primary: blue
   font:
     text: Roboto
   language: es
